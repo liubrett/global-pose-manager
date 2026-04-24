@@ -1,0 +1,7 @@
+<launch>
+
+    <node pkg="global_pose_manager" type="global_pose_manager_node" name="global_pose_manager" output="log" respawn="true">
+
+    </node>
+
+</launch>
